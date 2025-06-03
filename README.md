@@ -55,23 +55,23 @@
 <div align="center">
 
   <img src="https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Forms-5351d8?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/OOP-%20Object%20Oriented-7B42F6?style=for-the-badge" />
 
 </div>
 
 ### 🗃️ Database & Tools
 <div align="center">
-<img src="https://img.shields.io/badge/Relational%20Database%20Design-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Relational%20Database%20Design-5351d8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </div>
 
 ### 🧠 Problem Solving
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Problem%20Solving-criticalthinking-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Structures-Important-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-E67E22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-criticalthinking-ff5328?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Structures-E83F25?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-A62C2C?style=for-the-badge" />
 
 </div>
 
@@ -79,9 +79,9 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Communication%20Skills-2196F3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Team%20Work-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Leadership-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Communication%20Skills-3D365C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Team%20Work-7C4585?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Leadership-C95792?style=for-the-badge" />
 
 </div>
 
